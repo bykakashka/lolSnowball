@@ -6,5 +6,5 @@
 3) go to the ny.ru.leagueoflegends.com and login
 4) copy cookie values from any request to *leagueoflegends.com
 4) open new tab and go localhost:8080
-5) post your cookies and press 'go' button
+5) paste your cookies and press 'go' button
 6) press button 'press to throw' to throw as much snowballs as possible to a random players 
